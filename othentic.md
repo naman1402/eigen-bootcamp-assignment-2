@@ -25,4 +25,4 @@ Verification and Finality - AttestationCenter smart contract plays a key role in
 
 Execution Service - runs performer nodes and is responsible for executing task and generating PoT. this PoT could be result of a calculation, a Zk proof, CID of a JSON on IPFS, etc.
 
-Validation Service - run attester nodes and is responsible for verifying the validity of a Task execution submitted by a performer. Uses validation service API endpoint at /task/validate to verify the proofOfTask
+Validation Service - run attester nodes and is responsible for verifying the validity of a Task execution submitted by a performer. Uses validation service API endpoint at /task/validate to verify the proofOfTaskgo mo
